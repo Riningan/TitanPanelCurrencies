@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Titan Panel Currencies by Riningan
+## Notes: Titan Panel plugin that shows your currencies
+## Dependencies: Titan
+## Version: 1.0
+## Author: Riningan
+
+TitanPanelCurrencies.xml
